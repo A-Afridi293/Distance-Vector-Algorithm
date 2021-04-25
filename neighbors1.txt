@@ -1,0 +1,4 @@
+2 127.0.0.1  18182
+4 127.0.0.1  18184
+self.number= number
+self.streetName = streetName
